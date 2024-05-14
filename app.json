@@ -7,7 +7,7 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "ALIVE_NAME": {
+    "ALIVE_NAME": { حمد
       "description": "ضع أسمك في التليجرام",
       "value": ""
     },
